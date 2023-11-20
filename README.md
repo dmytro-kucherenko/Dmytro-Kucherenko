@@ -4,23 +4,23 @@
 
 ## Personal information
 
-- I am Dmytro Kucherenko, a software engineer with advanced skills of working with JavaScript and its libraries, frameworks.
-- I’ve been part of Front-End, Back-End development on various projects and passionate to develop my skills.
+I am <b>Dmytro Kucherenko</b>, a software engineer with advanced skills of working with JavaScript and its libraries, frameworks.<br/>
+I’ve been part of <b>DFront-End, Back-End development</b> on various projects and passionate to develop my skills.
 
 ## Technologies
 
-- JavaScript/TypeScript
-- React
-- Redux Toolkit
-- Angular
-- HTML
-- CSS/SASS
-- Node.js
-- NestJS
-- Fastify
-- SQL
-- MongoDB
-- OOP/SOLID
+• JavaScript/TypeScript<br/>
+• React<br/>
+• Redux Toolkit<br/>
+• Angular<br/>
+• HTML<br/>
+• CSS/SASS<br/>
+• Node.js<br/>
+• NestJS<br/>
+• Fastify<br/>
+• SQL<br/>
+• MongoDB<br/>
+• OOP/SOLID<br/>
 
 ## Contact me
 
