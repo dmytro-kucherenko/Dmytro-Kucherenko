@@ -2,7 +2,7 @@
 
 ### <i>Full-Stack Developer</i>
 
-## Personal information
+## Personal Information
 
 I am <b>Dmytro Kucherenko</b>, a software engineer with advanced skills of working with JavaScript and its libraries, frameworks.<br/>
 I’ve been part of <b>DFront-End, Back-End development</b> on various projects and passionate to develop my skills.
