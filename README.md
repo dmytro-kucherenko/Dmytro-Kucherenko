@@ -31,4 +31,5 @@ I’ve been part of <b>DFront-End, Back-End development</b> on various projects 
 
 ## GitHub Stats
 
-![Dmytro-Kucherenko's Stats](https://github-readme-stats.vercel.app/api?username=Dmytro-Kucherenko&theme=react&show_icons=true&hide_border=false&count_private=true)
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=dmytro-kucherenko&show_icons=true&include_all_commits=true&count_private=true&theme=react) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytro-kucherenko&layout=donut&theme=react) | 
+| ------------- | ------------- |
