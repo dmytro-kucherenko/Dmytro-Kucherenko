@@ -1,26 +1,29 @@
 # Hi there 💅🏻
 
-### <i>Full-Stack Developer</i>
+### <i>Back-end Developer</i>
 
 ## Personal Information
 
-I am <b>Dmytro Kucherenko</b>, a software engineer with advanced skills of working with JavaScript and its libraries, frameworks.<br/>
-I’ve been part of <b>DFront-End, Back-End development</b> on various projects and passionate to develop my skills.
+Hi, glad to see you here! 
+I am a 20-year-old developer with strong profficiency in Go. I’ve been part of Back-End development on various projects and passionate about building clean and efficient applications. I'm eager to grow as a back-end engineer, constantly improving my skills through real-world projects and learning from best practices. I enjoy solving problems, writing maintainable code, and exploring how systems work under in details.
+Feel free to contact me!
 
 ## Technologies
 
-• JavaScript/TypeScript<br/>
-• React<br/>
-• Redux Toolkit<br/>
-• Angular<br/>
-• HTML<br/>
-• CSS/SASS<br/>
-• Node.js<br/>
-• NestJS<br/>
-• Fastify<br/>
-• SQL<br/>
-• MongoDB<br/>
-• OOP/SOLID<br/>
+• Strong proficiency in Go <br/>
+• Gin or other HTTP servers <br/>
+• PostgreSQL, MySQL <br/>
+• MongoDB, Firestore <br/>
+• RESTful API, OpenAPI Spec <br/>
+• gRPC, GraphQL <br/>
+• Docker <br/>
+• AWS (CloudFormation) <br/>
+• CI, CD <br/>
+• Github, Gitlab, Bitbucket, Jira <br/>
+• Mono, Decoupled, Microservices <br/>
+• OOP, SOLID, IaC <br/>
+• JavaScript, TypeScript <br/>
+• Node.js <br/>
 
 ## Contact me
 
